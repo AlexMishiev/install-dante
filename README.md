@@ -10,8 +10,8 @@
 
 ```bash
 # 1. Скачать скрипт
-[wget https://github.com/AlexMishiev/install-dante.git
-](https://raw.githubusercontent.com/AlexMishiev/install-dante/main/install-dante.sh)
+wget https://raw.githubusercontent.com/AlexMishiev/install-dante/main/install-dante.sh
+
 # 2. Отредактировать переменные (пароль и сетевой интерфейс)
 nano install-dante.sh
 
